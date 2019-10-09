@@ -1,0 +1,7 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.1",
+        "mustache/mustache": "^2.12",
+        "hassankhan/config": "2.0.2"
+    }
+}

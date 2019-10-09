@@ -1,0 +1,35 @@
+{
+  "name": "ext-bug-reporter",
+  "namespace": "BugReporter",
+  "format": "1",
+  "version": "4.0.0",
+  "creator": "enovision",
+  "summary": "Bug Reporter",
+  "detailedDescription": "Enovision GmbH, BugReporter",
+  "type": "code",
+  "resources": [
+    {
+      "path": "resources",
+      "output": "shared"
+    }
+  ],  
+  "css": [
+    {
+      "path": "resources/assets/css/bugreporter.css"
+    }
+  ],
+  "slicer": {
+    "js": [
+      {
+        "path": "${package.dir}/sass/example/custom.js",
+        "isWidgetManifest": true
+      }
+    ]
+  },
+  "framework": "ext",
+  "toolkit": "classic",
+  "theme": "ext-theme-classic",
+  "output": "${package.dir}/build",
+  "classpath": "${package.dir}/src,${package.dir}/${toolkit.name}/src",
+  "overrides": "${package.dir}/overrides,${package.dir}/${toolkit.name}/overrides,${package.dir}/locale/${package.locale}"
+}

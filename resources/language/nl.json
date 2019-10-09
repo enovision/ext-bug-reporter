@@ -1,0 +1,23 @@
+{
+  "language": [
+    {
+      "date_time": "Datum/Tijd",
+      "type" : "Type",
+      "priority": "Prioriteit",
+      "module" : "Module",
+      "subject" : "Onderwerp",
+      "description" : "Beschrijving",
+      "reproduction": "Stappen dit probleem te reproduceren",
+      "solution_please": "Antwoord graag",
+      "solution_today": "Vandaag",
+      "solution_tomorrow": "Morgen",
+      "solution_or": "of",
+      "feedback": "Feedback",
+      "feedback_none": "Geen",
+      "feedback_email": "Email",
+      "feedback_phone": "Telefoon",
+      "button_submit": "Verzenden",
+      "button_cancel": "Afbreken"
+    }
+  ]
+}

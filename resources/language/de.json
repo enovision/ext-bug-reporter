@@ -1,0 +1,41 @@
+{
+  "language": [
+    {
+      "date_time": "Datum/Zeit",
+      "type" : "Typ",
+      "priority": "Priorität",
+      "module" : "Modul",
+      "subject" : "Betreff",
+      "description" : "Beschreibung",
+      "reproduction": "Schritte zum reproduzieren des Problems",
+      "solution_please": "Antwort bitte",
+      "solution_today": "Heute",
+      "solution_tomorrow": "Morgen",
+      "solution_or": "oder",
+      "feedback": "Rückruf",
+      "feedback_none": "Kein",
+      "feedback_email": "Mail",
+      "feedback_phone": "Fon",
+      "button_submit": "Versenden",
+      "button_cancel": "Abbrechen"
+    }
+  ],
+  "mail": [
+    {
+      "lbl_date": "Datum",
+      "lbl_reported_by": "Gemeldet von",
+      "lbl_name": "Name",
+      "lbl_login": "Login",
+      "lbl_email": "Email",
+      "lbl_phone": "Fon",
+      "lbl_module": "Modul",
+      "lbl_type": "Typ",
+      "lbl_priority": "Priorität",
+      "lbl_due": "Fällig",
+      "lbl_feedback": "Rückmeldung",
+      "lbl_footer": "Vielen Dank für das benutzen von BugReporter, ein Sencha ExtJS package von Enovision GmbH",
+      "send_error": "Bericht könnte nicht gesendet werden",
+      "send_success": "Bericht erfolgreich gesendet"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+Bug Reporter
+-----------------------------------------
+
+Customer: {customer}
+Datum: {date}
+-----------------------------------------
+Reported by : {name}
+- Email     : {email}
+- Phone     : {phone}
+-----------------------------------------
+Module : {module}
+Type: {type}
+Due: {due} / {due_date}
+Feedback: {feedback}
+
+-----------------------------------------
+Subject: {subject}
+-----------------------------------------
+
+{message}
+
+
+-----------------------------------------
+Thank you for using Bug Reporter,
+a Sencha Ext JS package by Enovision GmbH

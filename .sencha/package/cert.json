@@ -1,0 +1,23 @@
+{
+  "data": {
+    "created": "2017-11-02T13:08:30Z",
+    "email": "info@enovision.net",
+    "expires": "2022-11-03T00:00:00Z",
+    "name": "enovision",
+    "uuid": "27d42145-5f9b-4f3d-aea5-0664ce5e4595"
+  },
+  "publicKey": {
+    "algorithm": "RSA",
+    "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp2bbSDmhY4jlriU2Xg6Z6N63rAdhW7reTglCVEFZY8YAZ3ByfcIXc8myduEC8Iz0tCFRf68Kx76/dNj2bohL1IAXLjpQQpYYfLT56KKP/rB0K0cSxmBNUYrHrb0ZGjr6BMLZ/4gRAiLfcDHC1o3SsM8IQjZH7VAncWhfXL56A/WGiHA6XaFY501Vw+Z/BN4uW15zozVJv5AVx6RJZxiKaqnV5s2AKMkNjuxw/jiU2U75CLVnvxWO8ZUwU+8Cm7Ckped5+ow8LfoMuZUKtQc9rsQzy5gy7Wm7eK8jfY4TpUT+lmpFowSsyTKRyT04fN3kMxfPw9bsQkl/R9dz5nSmnQIDAQAB"
+  },
+  "signatures": [
+    {
+      "name": "enovision",
+      "uuid": "27d42145-5f9b-4f3d-aea5-0664ce5e4595",
+      "created": "2017-11-02T13:08:33Z",
+      "algorithm": "SHA1withRSA",
+      "nonce": "JJHhSRW+zXM\u003d",
+      "signature": "CXr8H323gWHrZXE5Tx0Gkvp7p9qHpvYoQe9Db+le5YNJEAyEax+tmrgAkWZjQxoM4rffr4Feglce4Dq9BICsuFNeU/KoE+kV9L+Qja5DVNu3JlBg9S92QGfUw7LQ6l7pmhCsNiBnrozbbchHbHqg+xl2JxTl+lhVmGmBBvasDPO+qf2vdSbvZ5FtUCIut04RPubNI3PXkv8yAckXxcflY2d8Ea0siYtQCV3kk1vPS/DZA8ZmkT/OPupnnc8E9GK541yjcwZZRfTucUjzO/Y70y9dgTFyaSRvIFhnxbu+pf8/90HnMd1umCD8LY9qWDnK4cT+KqkBu1tbVBO+M1FNYA\u003d\u003d"
+    }
+  ]
+}
